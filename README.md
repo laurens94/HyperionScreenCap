@@ -47,4 +47,4 @@ The application can be configured using the setup window which can be accessed b
 
 ## DirectX11 4K @ 60Hz HDR Demo
 
-[![Hyperion TV Ambient Light 4K 60Hz](http://img.youtube.com/vi/gY6-J97fXKc/0.jpg)](http://www.youtube.com/watch?v=gY6-J97fXKc "Hyperion TV Ambient Light 4K 60Hz")
+[![Hyperion TV Ambient Light 4K 60Hz](https://img.youtube.com/vi/gY6-J97fXKc/0.jpg)](https://www.youtube.com/watch?v=gY6-J97fXKc "Hyperion TV Ambient Light 4K 60Hz")
